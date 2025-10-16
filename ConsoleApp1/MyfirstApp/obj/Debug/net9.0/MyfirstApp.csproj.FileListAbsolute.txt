@@ -1,0 +1,14 @@
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/MyfirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/MyfirstApp.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/MyfirstApp.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/MyfirstApp.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/bin/Debug/net9.0/MyfirstApp
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/bin/Debug/net9.0/MyfirstApp.deps.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/bin/Debug/net9.0/MyfirstApp.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/bin/Debug/net9.0/MyfirstApp.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/bin/Debug/net9.0/MyfirstApp.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/MyfirstApp.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/refint/MyfirstApp.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/MyfirstApp.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/MyfirstApp.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/ConsoleApp1/MyfirstApp/obj/Debug/net9.0/ref/MyfirstApp.dll

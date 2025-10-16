@@ -1,0 +1,14 @@
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/bin/Debug/net9.0/Varaibles
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/bin/Debug/net9.0/Varaibles.deps.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/bin/Debug/net9.0/Varaibles.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/bin/Debug/net9.0/Varaibles.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/bin/Debug/net9.0/Varaibles.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/Varaibles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/Varaibles.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/Varaibles.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/Varaibles.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/Varaibles.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/refint/Varaibles.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/Varaibles.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/Varaibles.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/Varaibles/Varaibles/obj/Debug/net9.0/ref/Varaibles.dll

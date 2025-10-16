@@ -1,0 +1,14 @@
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/bin/Debug/net9.0/PrimitiveTypes
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/bin/Debug/net9.0/PrimitiveTypes.deps.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/bin/Debug/net9.0/PrimitiveTypes.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/bin/Debug/net9.0/PrimitiveTypes.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/bin/Debug/net9.0/PrimitiveTypes.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/PrimitiveTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/PrimitiveTypes.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/PrimitiveTypes.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/PrimitiveTypes.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/PrimitiveTypes.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/refint/PrimitiveTypes.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/PrimitiveTypes.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/PrimitiveTypes.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/PrimitiveTypes/PrimitiveTypes/obj/Debug/net9.0/ref/PrimitiveTypes.dll

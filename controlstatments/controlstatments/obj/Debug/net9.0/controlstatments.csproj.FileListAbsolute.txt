@@ -1,0 +1,14 @@
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/controlstatments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/controlstatments.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/controlstatments.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/controlstatments.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/bin/Debug/net9.0/controlstatments
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/bin/Debug/net9.0/controlstatments.deps.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/bin/Debug/net9.0/controlstatments.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/bin/Debug/net9.0/controlstatments.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/bin/Debug/net9.0/controlstatments.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/controlstatments.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/refint/controlstatments.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/controlstatments.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/controlstatments.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/controlstatments/controlstatments/obj/Debug/net9.0/ref/controlstatments.dll

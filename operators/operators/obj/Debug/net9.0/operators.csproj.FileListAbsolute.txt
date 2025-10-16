@@ -1,0 +1,14 @@
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/bin/Debug/net9.0/operators
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/bin/Debug/net9.0/operators.deps.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/bin/Debug/net9.0/operators.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/bin/Debug/net9.0/operators.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/bin/Debug/net9.0/operators.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/operators.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/operators.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/operators.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/operators.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/refint/operators.dll
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/operators.pdb
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/operators.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C# notes/assignments/operators/operators/obj/Debug/net9.0/ref/operators.dll
