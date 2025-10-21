@@ -7,10 +7,12 @@
 
         //creating objects  
         product1 = new Product();
-        Product.TotalNoProducts++;
+        Product.SetTotalNoOfProducts(Product.GetTotalNoOfProducts()+1);
         product2 = new Product();
+         Product.SetTotalNoOfProducts(Product.GetTotalNoOfProducts()+1);
         Product.TotalNoProducts++;
         product3 = new Product();
+         Product.SetTotalNoOfProducts(Product.GetTotalNoOfProducts()+1);
         Product.TotalNoProducts++;
 
         //initializw fields
@@ -77,7 +79,7 @@
         Console.WriteLine("Cost: " + highestCostProduct.GetCost());
         Console.WriteLine("Quantity in Stock: " + highestCostProduct.GetQuantityInStock());
 
-        System.Console.WriteLine("Total no of Products:" + Product.TotalNoProducts);
+        System.Console.WriteLine("Total no of Products:" + Product.GetTotalNoOfProducts());
         System.Console.WriteLine("Category  of Products:" + Product.CategoryName);
 
     }

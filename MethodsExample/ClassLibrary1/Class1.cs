@@ -23,9 +23,9 @@ public class Product
         dateOfPurchase = System.DateTime.Now.ToShortDateString();
     }
     //set  
-    public void SetProductID(int value)
+    public void SetProductID(int productID)
     {
-        productID = value;
+        this.productID = productID;
 
     }
     //get 
@@ -102,7 +102,16 @@ public class Product
         {
             t = cost * 12.5 / 100;
         }
-        tax = t;  
+        tax = t;
+    }
+    //static metythods
+    public static void SetTotalNoOfProducts(int value)
+    {
+        TotalNoProducts = value;
+    }
+        public static int GetTotalNoOfProducts()
+    {
+        return TotalNoProducts;
     }
 
 }
