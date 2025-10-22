@@ -60,7 +60,8 @@
         System.Console.WriteLine("Date of Purchase:" + product3.GetDateOfPurchase());
         System.Console.WriteLine("Tax:" + product3.GetTax());
 
-        int totalQuantity = product1.GetQuantityInStock() + product2.GetQuantityInStock() + product3.GetQuantityInStock();
+        int totalQuantity = Product.GetTotalQuantity(product1, product2, product3);
+       
         System.Console.WriteLine("Total Quantity:" + totalQuantity);
          Product highestCostProduct = product1;
         
