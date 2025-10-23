@@ -89,7 +89,7 @@ public class Product
     //cost<=2000 then tax =10%
     //cost >2000 then tax =12.5%
 
-    public void CaluclateTax()
+    public void CaluclateTax(double percentage =4.5)
     {
         double t;
 
@@ -100,7 +100,7 @@ public class Product
         }
         else
         {
-            t = cost * 12.5 / 100;
+            t = cost * percentage / 100;
         }
         tax = t;
     }
@@ -109,9 +109,17 @@ public class Product
     {
         TotalNoProducts = value;
     }
-        public static int GetTotalNoOfProducts()
+    public static int GetTotalNoOfProducts()
     {
         return TotalNoProducts;
+    }
+    //caluclate Total Quantity
+
+    public static int GetTotalQuantity( Product product1, Product product2,Product product3)
+    {
+        int total;
+        total = product1.GetQuantityInStock() + product2.GetQuantityInStock() + product3.GetQuantityInStock();
+        return total;
     }
 
 }
