@@ -31,7 +31,7 @@
         product3.SetQuantityInStock(800);
         //call methods
 
-        product1.CaluclateTax(9.2);
+        product1.CaluclateTax(percentage:9.2);
         product2.CaluclateTax(7.4);
         product3.CaluclateTax();
 
