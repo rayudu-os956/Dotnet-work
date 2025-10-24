@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/bin/Debug/net9.0/ParamsExample
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/bin/Debug/net9.0/ParamsExample.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/bin/Debug/net9.0/ParamsExample.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/bin/Debug/net9.0/ParamsExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/bin/Debug/net9.0/ParamsExample.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/refint/ParamsExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ParamsExample.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ParamsExample/ParamsExample/obj/Debug/net9.0/ref/ParamsExample.dll
