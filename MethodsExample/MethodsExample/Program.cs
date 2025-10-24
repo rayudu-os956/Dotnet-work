@@ -33,7 +33,7 @@
 
         product1.CaluclateTax(percentage:9.2);
         product2.CaluclateTax(7.4);
-        product3.CaluclateTax();
+        product3.CaluclateTax(10000,3.4);
 
         //get values from fields
         System.Console.WriteLine("Product1:");

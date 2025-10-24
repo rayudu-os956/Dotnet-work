@@ -89,14 +89,14 @@ public class Product
     //cost<=2000 then tax =10%
     //cost >2000 then tax =12.5%
 
-    public void CaluclateTax(double percentage =4.5)
+    public void CaluclateTax(double percentage = 4.5)
     {
         double t;
 
         //clauclate tax 
         if (cost <= 20000)
         {
-            t = cost * 10 / 100;
+            t = cost * 10/ 100;
         }
         else
         {
@@ -104,6 +104,22 @@ public class Product
         }
         tax = t;
     }
+    public void CaluclateTax(double cost, double percentage)
+    {
+         double t;
+
+        //clauclate tax 
+        if (cost <= 50000)
+        {
+            t = cost * 5 / 100;
+        }
+        else
+        {
+            t = cost * percentage / 100;
+        }
+        tax = t;
+    }  
+    
     //static metythods
     public static void SetTotalNoOfProducts(int value)
     {
