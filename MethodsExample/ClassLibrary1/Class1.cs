@@ -89,8 +89,11 @@ public class Product
     //cost<=2000 then tax =10%
     //cost >2000 then tax =12.5%
 
-    public void CaluclateTax(double percentage = 4.5)
+    //public void CaluclateTax( ref double percentage)
+    //public void CaluclateTax( out double percentage)
+    public void CaluclateTax( in double percentage)
     {
+        //percentage = 10.45;
         double t;
 
         //clauclate tax 

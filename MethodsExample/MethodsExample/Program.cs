@@ -29,10 +29,23 @@
         product3.SetProductName("Speakers");
         product3.SetCost(36000);
         product3.SetQuantityInStock(800);
+
         //call methods
 
-        product1.CaluclateTax(percentage:9.2);
-        product2.CaluclateTax(7.4);
+        double q = 9.2;
+        // product1.CaluclateTax(percentage:ref q);
+        //product1.CaluclateTax(percentage: out q);
+        product1.CaluclateTax(percentage: in q);
+
+        //out parameter
+
+        //product2.CaluclateTax(out double  p);
+
+
+        //in parametre
+        double p = 5.6;
+        product2.CaluclateTax(in p);
+        System.Console.WriteLine("P is" + p);
         product3.CaluclateTax(10000,3.4);
 
         //get values from fields
