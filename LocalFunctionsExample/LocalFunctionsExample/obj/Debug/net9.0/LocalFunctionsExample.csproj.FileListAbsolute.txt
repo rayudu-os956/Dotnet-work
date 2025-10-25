@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/bin/Debug/net9.0/LocalFunctionsExample
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/bin/Debug/net9.0/LocalFunctionsExample.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/bin/Debug/net9.0/LocalFunctionsExample.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/bin/Debug/net9.0/LocalFunctionsExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/bin/Debug/net9.0/LocalFunctionsExample.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/refint/LocalFunctionsExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/LocalFunctionsExample.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/LocalFunctionsExample/LocalFunctionsExample/obj/Debug/net9.0/ref/LocalFunctionsExample.dll

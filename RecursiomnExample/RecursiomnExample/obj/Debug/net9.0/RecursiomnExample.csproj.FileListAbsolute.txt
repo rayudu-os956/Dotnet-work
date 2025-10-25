@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/bin/Debug/net9.0/RecursiomnExample
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/bin/Debug/net9.0/RecursiomnExample.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/bin/Debug/net9.0/RecursiomnExample.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/bin/Debug/net9.0/RecursiomnExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/bin/Debug/net9.0/RecursiomnExample.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/refint/RecursiomnExample.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/RecursiomnExample.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/RecursiomnExample/RecursiomnExample/obj/Debug/net9.0/ref/RecursiomnExample.dll
