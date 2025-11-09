@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/bin/Debug/net9.0/TryParse
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/bin/Debug/net9.0/TryParse.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/bin/Debug/net9.0/TryParse.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/bin/Debug/net9.0/TryParse.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/bin/Debug/net9.0/TryParse.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/refint/TryParse.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/TryParse.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/TryParse/TryParse/obj/Debug/net9.0/ref/TryParse.dll
