@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/bin/Debug/net9.0/Parsing
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/bin/Debug/net9.0/Parsing.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/bin/Debug/net9.0/Parsing.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/bin/Debug/net9.0/Parsing.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/bin/Debug/net9.0/Parsing.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/refint/Parsing.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/Parsing.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Parsing/Parsing/obj/Debug/net9.0/ref/Parsing.dll
