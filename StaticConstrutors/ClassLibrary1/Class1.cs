@@ -2,19 +2,58 @@
 {
     //fieldsw
 
-    public int empID;
-    public string empName;
+    private int _empID;
+    private string _empName;
 
-    public string job;
+    private string _job;
     //static field 
-    public static string companyName;
+    private static string _companyName;
+
+    private double _salary;
+    private double _tax;
+    //instace property
+    public int EmpID
+    {
+        set
+        {
+            if (value > 100)
+            {
+                _empID = value;
+            }
+        }
+        get { return _empID; }
+    }
+    public string EmpName
+    {
+        set { _empName = value; }
+        get { return _empName; }
+    }
+       public string Job
+    {
+        set { _job = value; }
+        get { return _job; }
+    }
+    //static property
+    public static string  CompanyName
+    {
+        set {
+            if (value.Length <= 20)
+            {
+                _companyName = value;
+            } 
+             }
+        get { return _companyName; }
+    }
+
+   
     //constructor1
 
     public Employee(int empID, string empName, string job)
     {
-        this.empID = empID;
-        this.empName = empName;
-        this.job = job;
+        this._empID = empID;
+        this._empName = empName;
+        this._job = job;
+        this._salary = 1000;
     }
 
     //constructor overloding 
@@ -22,18 +61,46 @@
         //constructor2
     public Employee(int empID, string empName)
     {
-        this.empID = empID;
-        this.empName = empName;
+        this._empID = empID;
+        this._empName = empName;
+        this._salary = 1000;
     }
         //constructor3
     public Employee()
     {
-        empID = 1;
+        _empID = 1;
+        this._salary = 1000;
     }
     //static constructor
     static Employee()
     {
-        companyName = "Ray Industries";
+        _companyName = "Ray Industries";
 
+    }
+    //readonly property
+    public double Salary
+    {
+        get
+        {
+            return _salary;
+        }
+    }
+    //wrieonly 
+    public double Tax
+    {
+        set
+        {
+            if (value >= 0 && value < 100)
+            {
+                _tax = value;
+            }
+        }
+    }
+    //method
+
+    public double CaluclateNetSalary()
+    {
+        double t = Salary - _tax;
+        return t;
     }
 }
