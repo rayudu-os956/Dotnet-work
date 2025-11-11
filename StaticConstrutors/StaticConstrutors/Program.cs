@@ -32,6 +32,7 @@
         System.Console.WriteLine(emp2.EmpName);
         System.Console.WriteLine(emp2.Job);
             System.Console.WriteLine(emp2.Salary);
+            System.Console.WriteLine(emp2.NativePlace);
 
         System.Console.WriteLine("third Employee:");
         System.Console.WriteLine(emp3.EmpID);

@@ -105,5 +105,5 @@
     }
     //automatic properties
 
-    public string NativePlace{ get; set; }
+    public string NativePlace { get; set; } = "New York";
 }
