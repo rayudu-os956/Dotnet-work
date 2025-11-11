@@ -1,4 +1,4 @@
-public class Manager : Employee
+public  class Manager : Employee
 {
     //field
     private string _departmentName;
@@ -9,7 +9,7 @@ public class Manager : Employee
         this._departmentName = departmentName;
     }
     //method hiding :SAME NAME  + SAME PARAMETERS (RETRUN TYPE MAY differ)
-    public override string GetHealthInsuranceAmount()
+    public  override string GetHealthInsuranceAmount()
     {
         System.Console.WriteLine(base.GetHealthInsuranceAmount());
         return "Additional Health Insurance premium amount is:1000";
@@ -36,6 +36,7 @@ public class Manager : Employee
     }
     public string GetFullDepartmentName()
     {
-        return DepartmentName  +  "at"  +  base.Location;
+        return DepartmentName + "at" + base.Location;
     }
 }
+
