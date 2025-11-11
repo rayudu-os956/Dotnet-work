@@ -5,7 +5,7 @@
     private int _empID;
     private string _empName;
 
-    private string _location;
+    protected string _location;
 
     //properties 
 

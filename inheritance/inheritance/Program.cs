@@ -14,9 +14,9 @@
         //create bject for manager
 
         Manager mgr1 = new Manager();
-        mgr1.EmpID = 101;
-        mgr1.EmpName = "Rayudu";
-        mgr1.Location = "Hyderabad";
+        mgr1.EmpID = 102;
+        mgr1.EmpName = "Mook";
+        mgr1.Location = "Bangkok";
         mgr1.DepartmentName = "Accounting";
 
         System.Console.WriteLine("Object of child class(manager)");
@@ -25,13 +25,15 @@
         System.Console.WriteLine(mgr1.Location);
         System.Console.WriteLine(mgr1.DepartmentName);
         System.Console.WriteLine(mgr1.GetTotalSalesOfTheYear());
+        System.Console.WriteLine(mgr1.GetFullDepartmentName());
+
 
     //object for slaesman
 
         Salesman salesman1 = new Salesman();
-        salesman1.EmpID = 101;
-        salesman1.EmpName = "Rayudu";
-        salesman1.Location = "Hyderabad";
+        salesman1.EmpID = 103;
+        salesman1.EmpName = "Dory";
+        salesman1.Location = "Bejing";
         salesman1.Region = "East";
 
         System.Console.WriteLine("Object of child class(salesman)");

@@ -22,4 +22,8 @@ public class Manager : Employee
     {
         return 10000;
     }
+    public string GetFullDepartmentName()
+    {
+        return DepartmentName  +  "at"  +  base.Location;
+    }
 }
