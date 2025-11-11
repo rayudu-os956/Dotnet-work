@@ -6,6 +6,15 @@
     private string _empName;
 
     protected string _location;
+    //constructor
+
+    public Employee(int empID,string empName, string location)
+    {
+        this._empID = empID;
+        this._empName = empName;
+        this._location = location;
+
+    }
 
     //properties 
 
