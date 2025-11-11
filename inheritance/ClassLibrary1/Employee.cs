@@ -17,7 +17,7 @@
     }
     
     //methods
-    public string GetHealthInsuranceAmount()
+    public virtual string GetHealthInsuranceAmount()
     {
         return "Health Insurance Amount is :" + 500;
     }

@@ -9,9 +9,10 @@ public class Manager : Employee
         this._departmentName = departmentName;
     }
     //method hiding :SAME NAME  + SAME PARAMETERS (RETRUN TYPE MAY differ)
-    public new string GetHealthInsuranceAmount()
+    public override string GetHealthInsuranceAmount()
     {
-        return "Health Insurance  amount is : " + 1500;
+        System.Console.WriteLine(base.GetHealthInsuranceAmount());
+        return "Additional Health Insurance premium amount is:1000";
     }
 
     //property 

@@ -23,8 +23,8 @@
         System.Console.WriteLine(mgr1.GetHealthInsuranceAmount());
 
         //Based type reference to same object 
-        Employee eRef = mgr1;
-        Console.WriteLine("Base ref to same maanger:" + eRef.GetHealthInsuranceAmount()); 
+       // Employee eRef = mgr1;
+        //Console.WriteLine("Base ref to same maanger:" + eRef.GetHealthInsuranceAmount()); 
                //object for slaesman
 
         Salesman salesman1 = new Salesman(103,"Dory","Bejing","East");
