@@ -103,4 +103,7 @@
         double t = Salary - _tax;
         return t;
     }
+    //automatic properties
+
+    public string NativePlace{ get; set; }
 }

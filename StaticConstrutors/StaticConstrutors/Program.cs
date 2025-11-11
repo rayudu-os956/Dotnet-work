@@ -9,6 +9,7 @@
         emp1.EmpName = "Rayudu";
         emp1.Job = "Manager";
         emp1.Tax = 50;
+        emp1.NativePlace = "New Delhi";
         Employee emp2 = new Employee(102, "Mook");//constructor2
         emp2.Job = "Asst.Manager";
         Employee emp3 = new Employee(103, "Dory", "Clerk");//constructor1
@@ -22,6 +23,7 @@
         System.Console.WriteLine(emp1.Job);
         System.Console.WriteLine(emp1.Salary);
         System.Console.WriteLine(emp1.CaluclateNetSalary());
+        System.Console.WriteLine(emp1.NativePlace);
          
          
         
