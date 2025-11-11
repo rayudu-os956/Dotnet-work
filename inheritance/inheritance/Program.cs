@@ -20,9 +20,12 @@
         System.Console.WriteLine(mgr1.DepartmentName);
         System.Console.WriteLine(mgr1.GetTotalSalesOfTheYear());
         System.Console.WriteLine(mgr1.GetFullDepartmentName());
+        System.Console.WriteLine(mgr1.GetHealthInsuranceAmount());
 
-
-    //object for slaesman
+        //Based type reference to same object 
+        Employee eRef = mgr1;
+        Console.WriteLine("Base ref to same maanger:" + eRef.GetHealthInsuranceAmount()); 
+               //object for slaesman
 
         Salesman salesman1 = new Salesman(103,"Dory","Bejing","East");
 
@@ -32,6 +35,7 @@
         System.Console.WriteLine(salesman1.Location);
         System.Console.WriteLine(salesman1.Region);
         System.Console.WriteLine(salesman1.GetSalesOfTheCurrentMonth());
+        System.Console.WriteLine(salesman1.GetHealthInsuranceAmount());
 
 
 

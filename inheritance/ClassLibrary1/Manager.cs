@@ -4,9 +4,14 @@ public class Manager : Employee
     private string _departmentName;
     //constructor 
 
-    public Manager(int empID, string empName,string location,string departmentName):base(empID,empName,location)
+    public Manager(int empID, string empName, string location, string departmentName) : base(empID, empName, location)
     {
         this._departmentName = departmentName;
+    }
+    //method hiding :SAME NAME  + SAME PARAMETERS (RETRUN TYPE MAY differ)
+    public new string GetHealthInsuranceAmount()
+    {
+        return "Health Insurance  amount is : " + 1500;
     }
 
     //property 

@@ -8,12 +8,18 @@
     protected string _location;
     //constructor
 
-    public Employee(int empID,string empName, string location)
+    public Employee(int empID, string empName, string location)
     {
         this._empID = empID;
         this._empName = empName;
         this._location = location;
 
+    }
+    
+    //methods
+    public string GetHealthInsuranceAmount()
+    {
+        return "Health Insurance Amount is :" + 500;
     }
 
     //properties 
