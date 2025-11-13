@@ -15,12 +15,10 @@
         this._location = location;
 
     }
-    
-    //methods
-    public virtual string GetHealthInsuranceAmount()
-    {
-        return "Health Insurance Amount is :" + 500;
-    }
+
+    //abstract methods
+    public abstract string GetHealthInsuranceAmount();
+  
 
     //properties 
 
