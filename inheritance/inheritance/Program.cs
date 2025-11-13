@@ -2,12 +2,12 @@
 {
     static void Main()
     {
-        Employee emp1 = new Employee(101,"Rayudu","Hyderbad");
+        // Employee emp1 = new Employee(101,"Rayudu","Hyderbad");
 
-        System.Console.WriteLine("Object of Parent class");
-        System.Console.WriteLine(emp1.EmpID);
-        System.Console.WriteLine(emp1.EmpName);
-        System.Console.WriteLine(emp1.Location);
+        // System.Console.WriteLine("Object of Parent class");
+        // System.Console.WriteLine(emp1.EmpID);
+        // System.Console.WriteLine(emp1.EmpName);
+        // System.Console.WriteLine(emp1.Location);
 
         //create bject for manager
 
