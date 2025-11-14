@@ -1,4 +1,4 @@
-public class Salesman: IEmployee
+public class Salesman: IPerson,IEmployee
 {
     private string _region;
         private System.DateTime _dateOfBirth;

@@ -1,4 +1,4 @@
-public  class Manager: IEmployee
+public  class Manager: IPerson,IEmployee
 {
     //field
     private string _departmentName;
@@ -56,10 +56,15 @@ public  class Manager: IEmployee
         return DepartmentName ;
     }
 
-    public int GetAge()
+     int IPerson.GetAge()
     {
        int a = System.Convert.ToInt32((System.DateTime.Now - DateOfBirth).TotalDays/365);
        return a ;
+    }
+    int IEmployee.GetAge()
+    {
+            
+       return 20 ;
     }
 }
 

@@ -63,6 +63,7 @@
 public interface IEmployee:IPerson
 {
     string GetHealthInsuranceAmount();
+    int GetAge();
 
     int EmpID {set;get;}
     string EmpName{set;get;}

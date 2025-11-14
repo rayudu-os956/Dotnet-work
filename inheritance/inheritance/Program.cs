@@ -11,16 +11,16 @@
         //
         //create reference variable pf  Employee class 
 
-        IEmployee emp;
-        IPerson person;
+        IEmployee person;
+        //IPerson person;
         person =  new Manager(102,"Mook","Bangkok","Accounting");
         person.DateOfBirth = System.Convert.ToDateTime("1998-02-26");
         System.Console.WriteLine(person.GetAge());
 
 
         //create bject for manager
-        emp = new Manager(102,"Mook","Bangkok","Accounting");
-        System.Console.WriteLine(emp.GetHealthInsuranceAmount());
+        person = new Manager(102,"Mook","Bangkok","Accounting");
+        System.Console.WriteLine(person.GetHealthInsuranceAmount());
 
         // Manager mgr1 = new Manager(102,"Mook","Bangkok","Accounting");
  
@@ -40,14 +40,14 @@
 
         // Salesman salesman1 = new Salesman(103,"Dory","Bejing","East");
 
-        emp = new Salesman(103,"Dory","Bejing","East");
+        person = new Salesman(103,"Dory","Bejing","East");
         System.Console.WriteLine("Object of child class(salesman)");
         // System.Console.WriteLine(salesman1.EmpID);
         // System.Console.WriteLine(salesman1.EmpName);
         // System.Console.WriteLine(salesman1.Location);
         // System.Console.WriteLine(salesman1.Region);
         // System.Console.WriteLine(salesman1.GetSalesOfTheCurrentMonth());
-        System.Console.WriteLine(emp.GetHealthInsuranceAmount());
+        System.Console.WriteLine(person.GetHealthInsuranceAmount());
 
 
 
