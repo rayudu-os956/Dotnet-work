@@ -1,16 +1,17 @@
-public  class Manager : Employee
+public  class Manager: IPerson,IEmployee
 {
     //field
     private string _departmentName;
+    private System.DateTime _dateOfBirth;
     //constructor 
 
-    public Manager(int empID, string empName, string location, string departmentName) : base(empID, empName, location)
+    public Manager(int empID, string empName, string location, string departmentName) 
     {
         this._departmentName = departmentName;
     }
     //method hiding :SAME NAME  + SAME PARAMETERS (RETRUN TYPE MAY differ)
     //method overriding the abstract methods
-    public  override string GetHealthInsuranceAmount()
+    public   string GetHealthInsuranceAmount()
     {
         //System.Console.WriteLine(base.GetHealthInsuranceAmount());
         return "Additional Health Insurance premium amount is:1000";
@@ -28,6 +29,21 @@ public  class Manager : Employee
             return _departmentName;
         }
     }
+    public System.DateTime DateOfBirth
+    {
+        set
+        {
+            _dateOfBirth =value;
+        }
+        get
+        {
+            return _dateOfBirth;
+        }
+    }
+
+    public int EmpID { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+    public string EmpName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+    public string Location { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
     //method
 
@@ -37,7 +53,13 @@ public  class Manager : Employee
     }
     public string GetFullDepartmentName()
     {
-        return DepartmentName + "at" + base.Location;
+        return DepartmentName ;
+    }
+
+    public int GetAge()
+    {
+       int a = System.Convert.ToInt32((System.DateTime.Now - DateOfBirth).TotalDays/365);
+       return a ;
     }
 }
 

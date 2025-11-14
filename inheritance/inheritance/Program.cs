@@ -11,7 +11,11 @@
         //
         //create reference variable pf  Employee class 
 
-        Employee emp;
+        IEmployee emp;
+        IPerson person;
+        person =  new Manager(102,"Mook","Bangkok","Accounting");
+        person.DateOfBirth = System.Convert.ToDateTime("1998-02-26");
+        System.Console.WriteLine(person.GetAge());
 
 
         //create bject for manager

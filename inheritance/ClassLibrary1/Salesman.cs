@@ -1,13 +1,13 @@
-public class Salesman : Employee
+public class Salesman:IEmployee
 {
     private string _region;
     //constructor
-    public Salesman(int empID,string empName,string location,string region) : base (empID,empName,location)
+    public Salesman(int empID, string empName, string location, string region) 
     {
         this._region = region;
     }
 //method overriding abstract classes 
-    public override string GetHealthInsuranceAmount()
+    public string GetHealthInsuranceAmount()
     {
         //System.Console.WriteLine(base.GetHealthInsuranceAmount());
         return "Additional Health Insurance premium amount is: 500";
@@ -23,6 +23,11 @@ public class Salesman : Employee
             return _region;
         }
     }
+
+    public int EmpID { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+    public string EmpName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+    public string Location { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
     //
     public long GetSalesOfTheCurrentMonth()
     {
