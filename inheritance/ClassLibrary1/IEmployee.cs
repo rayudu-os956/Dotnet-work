@@ -60,7 +60,7 @@
 
 // }
 
-public interface IEmployee
+public interface IEmployee:IPerson
 {
     string GetHealthInsuranceAmount();
 

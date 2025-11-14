@@ -1,4 +1,4 @@
-public  class Manager: IPerson,IEmployee
+public  class Manager: IEmployee
 {
     //field
     private string _departmentName;
