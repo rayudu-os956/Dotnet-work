@@ -3,11 +3,12 @@ class Program
 {
     static void Main()
     {
+        
         //create structure instance
-        Categroy categroy = new Categroy(); //its for intialised the struture not an object 
+        Categroy categroy = new Categroy(20,"General"); //its for intialised the struture not an object 
         //inittialiswwe fields throough properties 
-        categroy.CategoryID =20;
-        categroy.CategroyName = "General";
+        // categroy.CategoryID =20;
+        // categroy.CategroyName = "General";
 
         //access methods 
         Console.WriteLine(categroy.GetCategroyNameLength());

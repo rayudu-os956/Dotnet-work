@@ -2,6 +2,11 @@
 {
     private int _categoryID;
     private string _categoryName;
+    public Categroy(int categoryID,string categoryName)
+    {
+        _categoryID = categoryID;
+        _categoryName = categoryName;
+    }
 
     public int CategoryID
     {
