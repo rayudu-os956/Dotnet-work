@@ -1,4 +1,6 @@
-﻿public partial class Product
+﻿
+namespace Warehouse{
+    public partial class Product
 {
     private int _productID;
 
@@ -13,4 +15,5 @@
             return _productID;
         }
     }
+}
 }

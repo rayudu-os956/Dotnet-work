@@ -1,4 +1,6 @@
-public partial class Product
+
+namespace Warehouse{
+    public partial class Product
 {
     private double _cost;
 
@@ -13,4 +15,5 @@ public partial class Product
             return _cost;
         }
     }
+}
 }

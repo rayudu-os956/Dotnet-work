@@ -1,4 +1,5 @@
 ﻿using static System.Console;
+using Warehouse;
 class Program
 {
     static void Main()
