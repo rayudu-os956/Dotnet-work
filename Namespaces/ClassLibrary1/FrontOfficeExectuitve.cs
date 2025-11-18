@@ -5,5 +5,9 @@ namespace FrontOffice
     {
         
     }
+    public class Manager
+    {
+        
+    }
 
 }

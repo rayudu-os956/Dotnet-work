@@ -1,19 +1,18 @@
-﻿//using HR;
-using HR.Mgr;
+﻿using HR;
+using m= HR.Mgr;
 
 using FrontOffice;
 class Program
 {
     static void Main() 
     {
-        IMangager manager1;
-         manager1 = new Manager();
-        IMangager manager2;
-         manager2 = new Manager();
-        IMangager manager3;
-         manager3 = new Manager();
-      
-         
+        m.IMangager manager1;
+         manager1 = new m.Manager();
+        m.IMangager manager2;
+         manager2 = new m.Manager();
+        m.IMangager manager3;
+         manager3 = new m.Manager();
+   
          CustomerEnquiry customerEnquiry =   new CustomerEnquiry();
     }
 }
