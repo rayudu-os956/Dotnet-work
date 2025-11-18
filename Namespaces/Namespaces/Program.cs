@@ -1,5 +1,5 @@
 ﻿using HR;
-using m= HR.Mgr;
+using m = HR.Mgr;
 using static System.Console;
 
 using FrontOffice;
