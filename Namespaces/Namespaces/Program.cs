@@ -2,9 +2,9 @@
 {
     static void Main() 
     {
-         HR.IMangager manager;
-         manager = new HR.Manager();
+         HR.Mgr.IMangager manager;
+         manager = new HR.Mgr.Manager();
          
          FrontOffice.CustomerEnquiry customerEnquiry =   new FrontOffice.CustomerEnquiry();
     }
-}
+}git
