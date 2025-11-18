@@ -1,10 +1,11 @@
 namespace Warehouse{
     public partial class Product
 {
-    public double GetTax()
+    partial void  GetTax()
     {
         double tax = Cost*10/100;
-        return tax;
+        System.Console.WriteLine(tax);
+
     }
 }
 }

@@ -1,4 +1,6 @@
 
+using System.Runtime.CompilerServices;
+
 namespace Warehouse{
     public partial class Product
 {
@@ -15,5 +17,9 @@ namespace Warehouse{
             return _cost;
         }
     }
+    public void CallGetTax()
+        {
+            GetTax();
+        }
 }
 }

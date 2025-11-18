@@ -8,6 +8,6 @@ class Program
 
         product.ProductID =101;
         product.Cost=1000;
-        WriteLine(product.GetTax());
+        product.CallGetTax();
     }
 }

@@ -15,5 +15,6 @@ namespace Warehouse{
             return _productID;
         }
     }
+    partial void GetTax();
 }
 }
