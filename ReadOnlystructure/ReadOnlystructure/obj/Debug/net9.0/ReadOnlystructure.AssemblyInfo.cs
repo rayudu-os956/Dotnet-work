@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadOnlystructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc2c80729a775ab153b8204f686bbfcde295efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40b2650313f6c24b064c092406431772a435f9ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadOnlystructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadOnlystructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

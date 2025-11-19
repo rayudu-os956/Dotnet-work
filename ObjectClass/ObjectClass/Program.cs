@@ -1,12 +1,15 @@
-﻿class Program
+﻿using System;
+class Program
 {
     static void Main()
     {
-        Person p;
-        System.Object abc  = new Person();
-        p = new Supplier();
+        System.Object obj = new Person(){PersonName = "Rayudu",Email = "Ringa@123.com"};
+         
+         ///access methods
+       Console.WriteLine(obj.Equals(new Person(){PersonName = "Rayudu",Email = "Ringa@123.com"}));
+       Console.WriteLine(obj.GetHashCode());
+       Console.WriteLine(obj.ToString());
+       Console.WriteLine(obj.GetType().ToString());
 
-        int a =10;
-        
     }
 }
