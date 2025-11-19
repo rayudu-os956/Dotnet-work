@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/bin/Debug/net9.0/Unboxing
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/bin/Debug/net9.0/Unboxing.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/bin/Debug/net9.0/Unboxing.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/bin/Debug/net9.0/Unboxing.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/bin/Debug/net9.0/Unboxing.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/refint/Unboxing.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/Unboxing.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Unboxing/Unboxing/obj/Debug/net9.0/ref/Unboxing.dll
