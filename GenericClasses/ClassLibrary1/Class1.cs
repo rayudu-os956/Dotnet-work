@@ -1,5 +1,8 @@
-﻿public class User<T>
+﻿public class User<T1,T2>
 {
     //generic field
-    public T ResgitrationStatus;
+    public T1 ResgitrationStatus;
+    //another generic field
+
+    public T2 Age;
 }
