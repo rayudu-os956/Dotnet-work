@@ -12,8 +12,11 @@
             Person p2 = new Person(){NoOfchildren = null};
             Person p3 = null;
 
+            if (p2.NoOfchildren.HasValue)
+            {
             Console.WriteLine(p1.NoOfchildren);
             Console.WriteLine(p2.NoOfchildren);
+            }
         }
     }
 }
