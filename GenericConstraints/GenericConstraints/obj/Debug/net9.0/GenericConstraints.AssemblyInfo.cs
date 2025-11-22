@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericConstraints")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a6020015a210e89803c1247a964fc1766bd8a6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1108a06fdcd1db66ac6a0c0a58722d06c2673650")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericConstraints")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericConstraints")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
