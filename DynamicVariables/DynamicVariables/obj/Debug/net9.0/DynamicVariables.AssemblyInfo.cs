@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicVariables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+695c230b64ee92776d184509faf6a5b2bcaf38dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a1646159953d76e544cb3bf17f9021e92efe688")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicVariables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicVariables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
