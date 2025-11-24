@@ -1,0 +1,17 @@
+﻿using ClassLibrary1;
+
+class Program
+{
+    static void Main()
+    {
+        Subsscriber subsscriber = new Subsscriber();
+
+        Publisher publisher = new Publisher();
+
+        publisher.myEvent += subsscriber.Add;
+
+        //invoke
+
+        publisher.RaiseEvent(10,20);
+    }
+}
