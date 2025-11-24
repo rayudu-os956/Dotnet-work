@@ -1,0 +1,6 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IDisposemethod/IDisposemethod/obj/Debug/net9.0/IDisposemethod.csproj.AssemblyReference.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IDisposemethod/IDisposemethod/obj/Debug/net9.0/IDisposemethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IDisposemethod/IDisposemethod/obj/Debug/net9.0/IDisposemethod.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IDisposemethod/IDisposemethod/obj/Debug/net9.0/IDisposemethod.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IDisposemethod/IDisposemethod/obj/Debug/net9.0/IDisposemethod.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IDisposemethod/IDisposemethod/obj/Debug/net9.0/IDisposemethod.sourcelink.json
