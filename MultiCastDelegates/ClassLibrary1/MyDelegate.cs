@@ -1,0 +1,1 @@
+public delegate void Mydelegate(double a ,double b);
