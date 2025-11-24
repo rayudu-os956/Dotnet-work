@@ -9,17 +9,18 @@ class Program
         Publisher publisher = new Publisher();
 
        // publisher.myEvent += subsscriber.Add;
-       publisher.myEvent += delegate(int a , int b)
-       {
-        int c = a+b;
-           Console.WriteLine(c);
-       };
+       publisher.myEvent += (a,b) =>a+b;
+        
+    
 
         //invoke
 
-        publisher.RaiseEvent(10,20);
-        publisher.RaiseEvent(5,80);
-        publisher.RaiseEvent(14,22);
+        // publisher.RaiseEvent(10,20);
+        // publisher.RaiseEvent(5,80);
+        // publisher.RaiseEvent(14,22);
+        Console.WriteLine(publisher.RaiseEvent(10,20));
+        Console.WriteLine(publisher.RaiseEvent(5,80));
+        Console.WriteLine(publisher.RaiseEvent(14,22));
 
     }
 }

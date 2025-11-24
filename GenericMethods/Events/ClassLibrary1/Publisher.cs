@@ -1,12 +1,14 @@
 ﻿namespace ClassLibrary1;
 //delegate type
-public  delegate  void  MyDelegateType(int a,int b);
+public  delegate  int  MyDelegateType(int a,int b);
 public class Publisher
 {
 //private delegate
-    private MyDelegateType myDelegate;
+    //private MyDelegateType myDelegate;
+    //cretaing func
+    public event Func<int,int ,int>myEvent;
 //cretae event
-     public event MyDelegateType myEvent;
+     //public event MyDelegateType myEvent;
     // {
     //     add
     //     {
@@ -19,12 +21,17 @@ public class Publisher
             
     //     }
     //}
-    public void RaiseEvent(int a , int b)
+    public int RaiseEvent(int a , int b)
     {
         //step2:raise Event
         if(this.myEvent!=null) 
         {
-        this.myEvent(a,b);
+             int x = this.myEvent(a,b);
+             return x;
+        }
+        else
+        {
+            return 0 ;
         }
     }
 }
