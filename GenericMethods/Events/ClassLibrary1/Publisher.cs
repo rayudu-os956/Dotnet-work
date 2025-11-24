@@ -6,7 +6,8 @@ public class Publisher
 //private delegate
     //private MyDelegateType myDelegate;
     //cretaing func
-    public event Func<int,int ,int>myEvent;
+   // public event Func<int,int ,int>myEvent;
+   public event Action<int,int>myEvent;
 //cretae event
      //public event MyDelegateType myEvent;
     // {
@@ -21,17 +22,18 @@ public class Publisher
             
     //     }
     //}
-    public int RaiseEvent(int a , int b)
+    public void RaiseEvent(int a , int b)
     {
         //step2:raise Event
         if(this.myEvent!=null) 
         {
-             int x = this.myEvent(a,b);
-             return x;
+           // int x = this.myEvent(a,b);
+            // return x;
+            this.myEvent(a,b);
         }
-        else
-        {
-            return 0 ;
-        }
+        // else
+        // {
+        //     return 0 ;
+        // }
     }
 }
