@@ -6,25 +6,25 @@ public class Publisher
 //private delegate
     private MyDelegateType myDelegate;
 //cretae event
-    public event MyDelegateType myEvent
-    {
-        add
-        {
-            myDelegate += value; 
+     public event MyDelegateType myEvent;
+    // {
+    //     add
+    //     {
+    //         myDelegate += value; 
             
-        }
-        remove
-        {
-            myDelegate -= value;
+    //     }
+    //     remove
+    //     {
+    //         myDelegate -= value;
             
-        }
-    }
+    //     }
+    //}
     public void RaiseEvent(int a , int b)
     {
         //step2:raise Event
-        if(this.myDelegate!=null) 
+        if(this.myEvent!=null) 
         {
-        this.myDelegate(a,b);
+        this.myEvent(a,b);
         }
     }
 }

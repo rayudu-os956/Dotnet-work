@@ -13,5 +13,8 @@ class Program
         //invoke
 
         publisher.RaiseEvent(10,20);
+        publisher.RaiseEvent(5,80);
+        publisher.RaiseEvent(14,22);
+
     }
 }
