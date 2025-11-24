@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/bin/Debug/net9.0/ExpressionTree
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/bin/Debug/net9.0/ExpressionTree.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/bin/Debug/net9.0/ExpressionTree.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/bin/Debug/net9.0/ExpressionTree.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/bin/Debug/net9.0/ExpressionTree.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/refint/ExpressionTree.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ExpressionTree.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ExpressionTree/ExpressionTree/obj/Debug/net9.0/ref/ExpressionTree.dll
