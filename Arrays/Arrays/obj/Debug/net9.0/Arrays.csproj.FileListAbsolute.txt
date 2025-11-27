@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/bin/Debug/net9.0/Arrays
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/Arrays/Arrays/obj/Debug/net9.0/ref/Arrays.dll
