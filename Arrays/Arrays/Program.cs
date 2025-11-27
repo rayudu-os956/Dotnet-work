@@ -4,13 +4,13 @@
     {
         int[] a = new int[5] {10,20,30,40,50};
         string[] b = new string[5]{"rayudu","mook","dory","cordy","manoj"};
-        for (int i = 0; i < a.Length; i++)
+        foreach (int i in a )
         {
-            Console.WriteLine(a[i]);
+            Console.WriteLine(i);
         }
-        for (int i = 0; i < b.Length; i++)
+        foreach (string i in b)
         {
-            Console.WriteLine(b[i]);
+            Console.WriteLine(i);
         }
        
       
