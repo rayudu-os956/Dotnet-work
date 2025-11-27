@@ -13,6 +13,10 @@
             Console.WriteLine(i);
         }
        
-      
+      //reverse 
+      for(int i = b.Length - 1; i > 0; i--)
+        {
+            Console.WriteLine(b[i]);
+        }
     }
 }
