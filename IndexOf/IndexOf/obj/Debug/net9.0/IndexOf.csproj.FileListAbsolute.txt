@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/bin/Debug/net9.0/IndexOf
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/bin/Debug/net9.0/IndexOf.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/bin/Debug/net9.0/IndexOf.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/bin/Debug/net9.0/IndexOf.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/bin/Debug/net9.0/IndexOf.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/refint/IndexOf.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/IndexOf.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/IndexOf/IndexOf/obj/Debug/net9.0/ref/IndexOf.dll
