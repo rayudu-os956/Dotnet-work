@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/bin/Debug/net9.0/ClearExapmle
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/bin/Debug/net9.0/ClearExapmle.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/bin/Debug/net9.0/ClearExapmle.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/bin/Debug/net9.0/ClearExapmle.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/bin/Debug/net9.0/ClearExapmle.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/refint/ClearExapmle.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ClearExapmle.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ClearExapmle/ClearExapmle/obj/Debug/net9.0/ref/ClearExapmle.dll
