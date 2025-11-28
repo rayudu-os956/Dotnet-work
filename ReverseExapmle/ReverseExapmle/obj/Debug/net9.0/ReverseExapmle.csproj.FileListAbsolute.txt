@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/bin/Debug/net9.0/ReverseExapmle
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/bin/Debug/net9.0/ReverseExapmle.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/bin/Debug/net9.0/ReverseExapmle.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/bin/Debug/net9.0/ReverseExapmle.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/bin/Debug/net9.0/ReverseExapmle.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/refint/ReverseExapmle.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ReverseExapmle.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/ReverseExapmle/ReverseExapmle/obj/Debug/net9.0/ref/ReverseExapmle.dll
