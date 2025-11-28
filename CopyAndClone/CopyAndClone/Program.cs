@@ -27,6 +27,7 @@
 
         //clone
        Employee[] highlyPaidEmployees2 =  (Employee[])employees.Clone();
+       employees[0].Role = "CEO";
        Console.WriteLine("\nClone:");
        foreach(Employee emp in highlyPaidEmployees2)
         {
