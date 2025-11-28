@@ -1,0 +1,15 @@
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/bin/Debug/net9.0/MultiDimmensionalArrays
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/bin/Debug/net9.0/MultiDimmensionalArrays.deps.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/bin/Debug/net9.0/MultiDimmensionalArrays.runtimeconfig.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/bin/Debug/net9.0/MultiDimmensionalArrays.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/bin/Debug/net9.0/MultiDimmensionalArrays.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.AssemblyInfoInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.AssemblyInfo.cs
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.csproj.CoreCompileInputs.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.sourcelink.json
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/refint/MultiDimmensionalArrays.dll
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.pdb
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/MultiDimmensionalArrays.genruntimeconfig.cache
+/Users/rayudugudipalli/Desktop/C#notes/assignments/MultiDimmensionalArrays/MultiDimmensionalArrays/obj/Debug/net9.0/ref/MultiDimmensionalArrays.dll
